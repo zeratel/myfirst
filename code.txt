@@ -7,3 +7,4 @@ git reset --hard commit_id 指向的版本就是当前版本
 git log 可以查看提交历史
 git reflog 查看命令历史
 git checkout -- file  把文件在工作区的修改全部撤销
+git rm <file> 从版本库中删除该文件
