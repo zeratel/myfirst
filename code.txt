@@ -16,3 +16,5 @@ git checkout -b dev //git checkout命令加上-b参数表示创建并切换，相当于以下两条命
 //$ git branch dev
 //$ git checkout dev
 //Switched to branch 'dev'
+git branch 查看当前分支
+git merge 命令用于合并指定分支到当前分支
